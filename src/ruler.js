@@ -1,6 +1,7 @@
 /**
  * Ruler Control for MapboxGL
  * Stolen from: https://raw.githubusercontent.com/bravecow/mapbox-gl-controls/master/src/ruler/ruler.js
+ * Modified to be more leightweight and suit my needs
  */
 
 import mapboxgl from 'mapbox-gl'
