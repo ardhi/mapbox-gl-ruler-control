@@ -1,0 +1,29 @@
+{
+  "name": "mapbox-gl-ruler-control",
+  "version": "0.0.1",
+  "description": "Mapbox GL - Ruler Control",
+  "main": "src/ruler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/mapbox-gl-ruler-control.git"
+  },
+  "keywords": [
+    "mapbox",
+    "gl",
+    "ruler",
+    "control"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/mapbox-gl-ruler-control/issues"
+  },
+  "homepage": "https://github.com/ardhi/mapbox-gl-ruler-control#readme",
+  "dependencies": {
+    "geolib": "^3.3.1",
+    "mapbox-gl": "^2.0.1"
+  }
+}
