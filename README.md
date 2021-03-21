@@ -1,6 +1,6 @@
 # mapbox-gl-ruler-control
 
-[screenshot](doc/screenshot.jpg)
+![screenshot](doc/screenshot.jpg)
 
 ## Install
 
