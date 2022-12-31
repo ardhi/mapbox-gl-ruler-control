@@ -26,7 +26,7 @@ function geoLineString (coordinates = []) {
 }
 
 function defaultLabelFormat (delta, sum, units) {
-  return `+ ${delta.toFixed(2)} ${units}<br/>= ${sum.toFixed(2)} ${units}`
+  return `* ${delta.toFixed(2)} ${units}<br/>= ${sum.toFixed(2)} ${units}`
 }
 
 export default class RulerControl {
